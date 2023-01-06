@@ -18,4 +18,4 @@ This is a JavaScript practice project. The main goals were:
 
 ## GitHub Pages
 
-Want to give the game a go? Just click [here](). Good Luck!
+Want to give the game a go? Just click [here](https://vcdsc.github.io/rock-paper-scissors/). Good Luck!
